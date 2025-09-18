@@ -1,7 +1,9 @@
-This repository contains the scripts and data associated with the manuscript:
-“**Profiling Pathogen Invasion Resistance Landscape of Rhizosphere Microbial Communities.**”
+### Repository Overview
 
-#### Contents:
+This repository contains the scripts and data associated with the manuscript: “**Profiling Pathogen Invasion Resistance Landscape of Rhizosphere Microbial Communities**”
+
+
+### Contents:
 
 - Data for all main and supplementary figures
 - Scripts for generating each figure panel
